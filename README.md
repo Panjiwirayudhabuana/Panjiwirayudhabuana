@@ -13,8 +13,6 @@
 
 ## 👋 Tentang Saya
 
-Hai! Saya Panji Wira Yudha Buana — seorang **Full-Stack Developer** dan **UI/UX Designer** dengan pengalaman di pengembangan aplikasi **web, mobile, dan sistem IoT**.
-
 - 🎨 Berpengalaman di bidang **UI/UX Design** dan design system berbasis komponen
 - 🔭 Sedang mengembangkan: **Sistem IoT Monitoring & Control (ESP32 + Firebase)**
 - 🌱 Fokus belajar: **Flutter, .NET Core, Laravel**
